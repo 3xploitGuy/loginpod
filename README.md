@@ -26,27 +26,27 @@ LoginPod is a password encrypter and password manager written in bash with pytho
 ## Usage
 **1.** When you run the script, you are welcomed with this screen where you have to enter 5 digit encryption key on which the encryption algorithm works ranging from 00000 to 99999. For each encryption key entered the algorithm gives different output, so you have to decide a 5 digit encryption key and always use that same encryption key.
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/1.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668904-d49d80f3-6f80-40a8-8f32-cc0ad7dfbfb6.png" width="100%"></img>
 
 **2.** After entering the encryption key user is welcomed with the main menu, where he can encrypt his passwords and if user wants to store the password for different accounts the password vault can be used.</br>
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/3.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668907-13b8f6d5-4e69-4bad-a59a-eee2732286e8.png" width="100%"></img>
 
 **3.** Selecting the second option (encrypter) where user can enter his password and get the encrypted value.</br>
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/2.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668906-27a966f4-e14f-4a7b-a754-e6f8effa1754.png" width="100%"></img>
 
 **4.** Selecting the first option (password vault) will take user to the vault menu, where user can add account name and password, update, retrive saved account passwords and delete an saved account.
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/4.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668909-8fc4d406-e76e-42be-861c-6a904d9f2d34.png" width="100%"></img>
 
 **5.** Saving account and password: user can save the account and password (passwords are stored in plain text).
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/5.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668910-8b190d48-3801-4a36-bef6-1c0e3a60a5d4.png" width="100%"></img>
 
 **6.** Retrive password: Added accounts passsword can be retrived.
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/2/6.png" width="100%"></img>
+<img src="https://user-images.githubusercontent.com/46316908/136668912-5ec531db-f4b8-4848-90d3-261e5bbe4363.png" width="100%"></img>
 
 
 ## Installing and requirements
